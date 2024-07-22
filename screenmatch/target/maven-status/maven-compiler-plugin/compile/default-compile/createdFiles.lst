@@ -1,0 +1,9 @@
+br\com\alura\screenmatch\model\DadosSerie.class
+br\com\alura\screenmatch\model\Episodio.class
+br\com\alura\screenmatch\service\ConsumoApi.class
+br\com\alura\principal\Principal.class
+br\com\alura\screenmatch\service\IConverteDados.class
+br\com\alura\screenmatch\ScreenmatchApplication.class
+br\com\alura\screenmatch\model\DadosEpisodio.class
+br\com\alura\screenmatch\model\DadosTemporada.class
+br\com\alura\screenmatch\service\ConverterDados.class
